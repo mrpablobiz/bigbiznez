@@ -19,6 +19,7 @@ export default function Page() {
         width={300}
         height={450}
       />
+      <Link href='/about'>About</Link>
       <div>{pathname}</div>
     </main>
   )
